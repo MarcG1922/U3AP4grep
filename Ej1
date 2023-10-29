@@ -1,0 +1,1 @@
+./procesar 1 | grep -A25 -B1 SEMANAS
