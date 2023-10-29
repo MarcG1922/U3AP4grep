@@ -1,0 +1,1 @@
+cat file | grep -v "*" | grep -v s | grep 1..> a
